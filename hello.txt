@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello from Bastia-
+=======
+Hello World !-
+>>>>>>> parent of dd7303a (C2: deuxieme commit)
